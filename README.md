@@ -1,0 +1,1 @@
+Text statistic using fstream and cctype .lib
