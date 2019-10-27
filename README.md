@@ -1,1 +1,1 @@
-Text statistic using fstream and cctype .lib
+Text statistic using iostream and cctype .lib
